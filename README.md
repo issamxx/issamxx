@@ -6,6 +6,7 @@
 
 📍 Marrakech, Morocco &nbsp;•&nbsp; 🎓 Professional Bachelor's in Web Networks Engineering & Security (Université Cadi Ayyad)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-issamxx.github.io-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://issamxx.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Issam%20Derai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-derai)
 [![Email](https://img.shields.io/badge/Email-deraiyissame%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deraiyissame@gmail.com)
 
@@ -13,7 +14,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Featured Portfolio & Live Demos
+
+- **[ISSAM — Web, E-Commerce & Mobile Agency Portfolio (`AR / EN / FR` + Live Demos)](https://issamxx.github.io/)** — [Live Site](https://issamxx.github.io/) | [Repository](https://github.com/issamxx/issamxx.github.io)
+  Featuring Live Interactive Demos of **Embro Space**, **Jaouhara Mode**, and **Urbagroupe**, plus Custom E-Commerce Stores (COD & Online Payments) and Android/iOS Mobile Apps.
+
+---
+
+### 👨💻 About Me
 
 I handle the full IT project lifecycle — from designing and building custom web & e-commerce applications to securing, virtualizing, and administering network infrastructures and PC hardware.
 
